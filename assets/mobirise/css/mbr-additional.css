@@ -1606,6 +1606,9 @@ body {
   width: 100% !important;
   height: 100% !important;
 }
+.cid-r1NpCWN8IU .main {
+  flex-direction: row-reverse;
+}
 .cid-r1NpCWN8IU .row-element,
 .cid-r1NpCWN8IU .image-element {
   padding: 0;
